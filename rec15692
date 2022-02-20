@@ -1,0 +1,26 @@
+FP:
+total 20
+-rw-r--r--. 1 myid  692 Dec 18 16:11 app.html
+-rw-r--r--. 1 myid 9803 Dec 18 16:11 app.js
+drwxr-xr-x. 2 myid   30 Dec 18 16:11 css
+drwxr-xr-x. 2 myid    6 Dec 18 16:11 js
+drwxr-xr-x. 2 myid    6 Dec 18 16:11 jsm
+-rw-r--r--. 1 myid 3541 Dec 18 16:11 NewtonBall.js
+-rw-r--r--. 1 myid    0 Dec 18 16:21 rec15692
+drwxr-xr-x. 2 myid   41 Dec 18 16:11 textures
+
+FP/css:
+total 4
+-rw-r--r--. 1 myid 833 Dec 18 16:11 main.css
+
+FP/js:
+total 0
+
+FP/jsm:
+total 0
+
+FP/textures:
+total 812
+-rw-r--r--. 1 myid 708359 Dec 18 16:11 lava.jpg
+-rw-r--r--. 1 myid 119654 Dec 18 16:11 texture.jpg
+/home/myid/djf02504/x810/FP:/home/myid/csci-x810
